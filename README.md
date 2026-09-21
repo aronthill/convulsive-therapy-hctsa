@@ -3,7 +3,6 @@
 Code accompanying the manuscript:
 
 **Uncovering Neural Signatures of Convulsive Therapy in Depression Using Massive EEG Time-Series Feature Extraction**  
-Aron T. Hill and colleagues
 
 Much of the study used existing EEG and time-series analysis toolboxes. EEG artefact cleaning was performed using [RELAX](https://github.com/NeilwBailey/RELAX) within EEGLAB. Feature extraction, descriptive feature ranking, clustering and associated visualisations used functions provided by the [hctsa toolbox](https://github.com/benfulcher/hctsa). Please refer to these repositories for the toolbox code, installation instructions and relevant citations.
 
