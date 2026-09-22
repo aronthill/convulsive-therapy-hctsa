@@ -8,13 +8,10 @@
 
 close all; clear; clc;
 %% File paths
-% Change these paths if running on another computer.
+% Change paths as needed
 dataFolder = '/Users/aron/Desktop/Neural_Networks_Paper_New_Location/data_from_g_drive/Combined_MST_ECT_Baseline_Post';
-
 pairingFile = '/Users/aron/Desktop/Neural_Networks_Paper_New_Location/Revision_Analyses/A_Paired_Statistics/results/preparation_20260908_170400_468/participant_pairing.csv';
-
 hctsaFolder = '/Users/aron/Desktop/Neural_Networks_Paper_New_Location/Revision_Analyses/D_Model_Corrections/PCA/Pilot/runtime_hctsa';
-
 outputRoot = '/Users/aron/Desktop/Neural_Networks_Paper_New_Location/GitHub_Manuscript_Code/outputs';
 
 
