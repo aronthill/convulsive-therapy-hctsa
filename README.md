@@ -8,6 +8,6 @@ Much of the study used existing EEG and time-series analysis toolboxes. EEG arte
 
 This repository provides additional study-specific code supporting the manuscript's paired statistical comparisons, pre/post classification and exploratory treatment-response prediction. These scripts complement the toolbox-based analyses; they do not contain every analysis or figure-generation step in the manuscript. They continue to call hctsa functions where indicated, with additional MATLAB and Python code for the paired tests and participant-level validation procedures.
 
- **Please note, EEG and clinical data cannot be shared because of ethics restrictions.**
+ **Please note, EEG and clinical data cannot be publicly shared due to ethics restrictions.**
 
 The revised analyses used MATLAB with hctsa and the required MATLAB toolboxes; Python dependencies are listed in `requirements.txt`. Further methodological details are provided in the manuscript and supplementary materials.
